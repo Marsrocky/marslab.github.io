@@ -8,9 +8,10 @@ MARS Lab studies **Physical AI**, focusing on how AI can enable physical systems
 {% include section.html %}
 
 ## News
-- Sep 2025: (paper) Three papers (**HoloLLM**, **Benford's Curse**, and **Intend to Move**) are accepted by **NeurIPS-25**! 
+- Sep 2025: (paper) Three papers (**HoloLLM**, **Benford's Curse**, and **Intend to Move**) are accepted by **NeurIPS-25**!
+- Aug 2025: (member) Excited to welcome Xinying, An Tuo, Jingliang, Bofan, and Jiaqi to our lab family!
 - Jun 2025: (paper) Two papers are accepted by **IROS-25**!
-- May 2025: (member) Our first **humanoid** robot member, "MARS-H," is coming to the lab.
+- May 2025: (member) Our first **humanoid** robot member, "MARS-H," joins the lab!
 - Feb 2025: (project) Our lab established a collaboration with Abio for robotic lab automation.
 - Feb 2025: (funding) Our project is supported by **Microsoft Accelerating Foundation Models Research**.
 - Feb 2025: (paper) Our paper (Feedback Neural Network) is selected as an **ICLR oral paper (top 1.8%)**.
