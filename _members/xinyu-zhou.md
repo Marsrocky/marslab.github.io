@@ -37,19 +37,27 @@ Dr. Zhou is a Postdoctoral Research Fellow at Nanyang Technological University, 
 
 ### First-Author Publications
 [1] **Dynamic Semantic-Aware Correlation Modeling for UAV Tracking**
+
 **Xinyu Zhou**, Tongxin Pan, Lingyi Hong, Pinxue Guo, HaiJing Guo, Zhaoyu Chen, Kaixun Jiang, Wenqiang Zhang
+
 *Advances in Neural Information Processing Systems (NeurIPS 2025)*
 
-[2] **DeTrack: In-model Latent Denoising Learning for Visual Object Tracking.**   
+[2] **DeTrack: In-model Latent Denoising Learning for Visual Object Tracking.**  
+
 **Xinyu Zhou**, Jinglun Li, Lingyi Hong, Kaixun Jiang, Pinxue Guo, Weifeng Ge, Wending Zhang
+
 *Advances in Neural Information Processing Systems (NeurIPS 2024)*
 
 [3] **Reading Relevant Feature from Global Representation Memory for Visual Object Tracking.**
+
 **XinyuZhou**, Pinxue Guo, Lingyi Hong, Jinglun Li, Wei Zhang, Weifeng Ge, Wending Zhang 
+
 *Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023)*
 
 [4] **ERV-Net: An efficient 3D residual neural network for brain tumor segmentation.**   
+
 **Xinyu Zhou**, Xuanya Li, Kai Hu, Yuan Zhang, Zhineng Chen, Xieping Gao
+
 *Expert Systems with Applications, 2021*
 
 <!--_Disclosure_: Rob is a co-founder and the CTO of [Ocean Genomics inc.](https://oceangenomics.com/).-->
