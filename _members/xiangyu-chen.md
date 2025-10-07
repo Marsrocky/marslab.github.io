@@ -5,7 +5,7 @@ search:
 role: phd
 affiliation: Robotics
 group: current
-image: images/members/xiangyu-chen.png
+image: images/members/xiangyu-chen-life.jpg
 email: cxy980212@gmail.com
 ---
  
@@ -34,3 +34,4 @@ Xiangyu is a full-time RA and will join MARS lab as a PhD student in Aug 2025. H
 [2] **Low-drift LiDAR-only Odometry and Mapping for UGVs in Environments with Non-level Roads**     
 **Xiangyu Chen**, Yinchuan Wang, Chaoqun Wang, Rui Song, and Yibin Li    
 *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*
+
