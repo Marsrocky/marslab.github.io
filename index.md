@@ -1,7 +1,7 @@
 ---
 ---
 
-**Multimodal AI and Robotic Systems (MARS) Lab** is led by [Prof. Jianfei Yang](https://marsyang.site/) in Nanyang Technological University, Singapore. 
+**Multimodal embodied AI and Robotic Systems (MARS) Lab** is led by [Prof. Jianfei Yang](https://marsyang.site/) at Nanyang Technological University, Singapore. 
 
 MARS Lab studies **Physical AI**, focusing on how AI can enable physical systems—such as robotics, IoT, and industrial systems—to *perceive, understand, and interact with the physical world*.
 
