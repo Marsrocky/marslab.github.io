@@ -42,7 +42,7 @@ At MARS Lab, we mainly study Human-Centric Physical AI and Robotics, ranging fro
 
 {%
   include feature.html
-  image="images/homepage-research.jpg"
+  image="images/EAI_lab.png"
   link="research"
   title="Physical AI Research"
   text=text
