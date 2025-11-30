@@ -1,10 +1,10 @@
 ---
 title: Jindou Jia
 search:
-role: Postdoctoral Researcher
+role: postdoc
 affiliation: Robotics
 group: current
-image: images/members/jindou_an_life.jpg
+image: images/members/jindou jia.jpg
 email: jindou.jia@ntu.edu.sg
 ---
 
