@@ -48,6 +48,7 @@ We thank all MARS Lab alumni for their invaluable contributions and wish them br
 
 ### Master of Science (Msc)
 <ul>
+  <li><strong>Wu Tao</strong> (NTU, PhD) - [Noisy Embodied Question Answering] (2024-2025)</li>
   <li><strong>Zuo Jia</strong> (XPENG Humanoid Robot) - [mmWave Radar Sensing for ECG] (2023-2024)</li>
   <li><strong>Li Han</strong> (BYD) - [3D Pose Estimation in Hyperbolic Space] (2023-2024)</li>
   <li><strong>Ma Zhenduo</strong> (AVIC Aerodynamics Research Institute) - [WiFi Sensing using WiFi-7] (2023-2024)</li>
