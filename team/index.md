@@ -26,6 +26,20 @@ With shared dedication, we strive to advance science and create impactful innova
 {% endcapture %}
 {% include centerer.html html=html %}
 
+### Visiting PhD Researchers
+<ul>
+  <li><strong>Yuxuan Hu</strong> (Fudan University) - Visiting PhD Student (2025-2026)</li>
+  <li><strong>Weiqing Lin</strong> (Fuzhou University) - Visiting PhD Student (2025-2026)</li>
+  <li><strong>Beiyu You</strong> (Hainan University) - Visiting PhD Student (2025-2026)</li>
+</ul>
+
+### Undergrad Research Intern
+<ul>
+  <li><strong>Jiayi Li</strong> (Tsinghua University) - Undergrad Research Intern (2025 Aug)</li>
+  <li><strong>Rongyu Xie</strong> (Fudan University) - Undergrad Research Intern (2025 Aug)</li>
+  <li><strong>Jiandong Shao</strong> (UESTC) - Undergrad Research Intern (2025 Jan)</li>
+</ul>
+
 {% include section.html background="images/background.jpg" dark=true %}
 We thank all MARS Lab alumni for their invaluable contributions and wish them bright futures ahead.
 
