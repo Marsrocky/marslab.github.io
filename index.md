@@ -8,7 +8,7 @@ MARS Lab studies **Physical AI**, focusing on how AI can enable physical systems
 {% include section.html %}
 
 ## News
-- Feb 2026: (paper) Three papers are accepted by **CVPR-26** (2 main + 1 finding). Congrats our students!
+- Feb 2026: (paper) Three papers are accepted by **CVPR-26** (2 main + 1 finding). Congratulations!
 - Jan 2026: (paper) Our paper on real-world RL is acceptd by **ICRA-26**. Congrats Xiangyu (PhD)!
 - Jan 2026: (paper) Two papers are accepted by **ICLR-26**. Congrats Xinyan (PhD) and Chenxi (MEng)!
 - Nov 2025: (paper) Three papers are accepted by **AAAI-26**.
