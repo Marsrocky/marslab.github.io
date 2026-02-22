@@ -8,7 +8,9 @@ MARS Lab studies **Physical AI**, focusing on how AI can enable physical systems
 {% include section.html %}
 
 ## News
-- Jan 2026: (paper) Two papers are accepted by **ICLR-26**.
+- Feb 2026: (paper) Three papers are accepted by **CVPR-26** (2 main + 1 finding). Congrats our students!
+- Jan 2026: (paper) Our paper on real-world RL is acceptd by **ICRA-26**. Congrats Xiangyu (PhD)!
+- Jan 2026: (paper) Two papers are accepted by **ICLR-26**. Congrats Xinyan (PhD) and Chenxi (MEng)!
 - Nov 2025: (paper) Three papers are accepted by **AAAI-26**.
 - Sep 2025: (paper) Three papers (**HoloLLM**, **Benford's Curse**, and **Intend to Move**) are accepted by **NeurIPS-25**!
 - Aug 2025: (member) Excited to welcome Xinying, An Tuo, Jingliang, Bofan, and Jiaqi to our lab family!
