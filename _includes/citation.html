@@ -16,11 +16,11 @@
           href="{{ citation.link | relative_url }}"
         {% endif %}
         class="citation-image"
-        aria-label="{{ citation.title | default: "citation link" }}"
+        aria-label="{{ citation.title | default: "citation link" | escape }}"
       >
         <img
           src="{{ citation.image | relative_url }}"
-          alt="{{ citation.title | default: "citation image" }}"
+          alt="{{ citation.title | default: "citation image" | escape }}"
           loading="lazy"
           {% include fallback.html %}
         >
@@ -43,7 +43,7 @@
       <div
         class="citation-authors"
         {% if citation.authors.size > 10 %}
-          data-tooltip="{{ citation.authors | join: ", " }} "
+          data-tooltip="{{ citation.authors | join: ", " | escape }} "
         {% endif %}
         tabindex="0"
       >
