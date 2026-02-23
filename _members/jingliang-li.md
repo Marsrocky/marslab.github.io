@@ -5,7 +5,7 @@ search:
 role: phd
 group: current
 image: images/members/jingliang-li.jpg
-affiliation: TBD
+affiliation: Embodied AI
 email: jinglian001@e.ntu.edu.sg
 ---
 

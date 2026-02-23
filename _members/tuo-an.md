@@ -2,13 +2,13 @@
 title: Tuo An 
 search:
 role: phd
-affiliation: TBD
+affiliation: Embodied AI
 group: current
 image: images/members/tuo_an_life.jpg
 email: ANTU0001@e.ntu.edu.sg
 ---
 
-Tuo An will join MARS lab as a PHD student in Aug 2025. His research interests include Multimodal LLM, Embodied AI, and NLP.
+Tuo An joined MARS lab as a PHD student in Aug 2025. His research interests include Multimodal LLM, Embodied AI, and NLP.
 
 ### Education
 - Bachelor of Engineering , 2021-2025

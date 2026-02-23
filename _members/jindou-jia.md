@@ -36,18 +36,23 @@ Dr. Jia is a Postdoctoral Research Fellow at Nanyang Technological University, w
 ### Publications
 
 - **FORESEER: Recognize and utilize uncertainties by integrating data-based learning and symbolic feedback**
+
   **Jindou Jia**, Kexin Guo, Yuyang Wang, Sicheng Zhou, Jiayi Zhang, Yuhang Liu, Xiang Yu, Yang Shi, Lei Guo
   The International Journal of Robotics Research (**IJRR**), 2025
 - **Feedback favors the generalization of neural ODEs**
+
   **Jindou Jia**, Zihan Yang, Meng Wang, Kexin Guo, Jianfei Yang, Xiang Yu, Lei Guo
   International Conference on Learning Representations (**ICLR**), 2025, **Oral Presentation**
 - **EVOLVER: Online learning and prediction of disturbances for robot control**
+
   **Jindou Jia**, Wenyu Zhang, Kexin Guo, Jianliang Wang, Xiang Yu, Yang Shi, Lei Guo
   IEEE Transactions on Robotics (**T-RO**), 2024
 - **Accurate high-maneuvering trajectory tracking for quadrotors: A drag utilization method**
+
   **Jindou Jia**, Kexin Guo, Xiang Yu, Weihua Zhao, Lei Guo
   IEEE Robotics and Automation Letters (**R-AL**), 2022
 - **Agile flight control under multiple disturbances for quadrotor: Algorithms and evaluation**
+
   **Jindou Jia**, Kexin Guo, Xiang Yu, Lei Guo, Lihua Xie
   IEEE Transactions on Aerospace and Electronic Systems (**T-AES**), 2022
 
