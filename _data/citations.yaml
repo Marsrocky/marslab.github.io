@@ -327,8 +327,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2410.02429
-  title: 'IoT-LLM: A framework for enhancing large language model reasoning from
-    real-world sensor data'
+  title: 'IoT-LLM: a framework for enhancing Large Language Model reasoning from real-world
+    sensor data'
   authors:
   - Tuo An
   - Yunjiao Zhou
@@ -426,8 +426,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2512.01446
-  title: 'M3A Policy: Mutable Material Manipulation Augmentation Policy through Photometric
-    Re-rendering'
+  title: '$\mathbf{M^3A}$ Policy: Mutable Material Manipulation Augmentation Policy
+    through Photometric Re-rendering'
   authors:
   - Jiayi Li
   - Yuxuan Hu
@@ -453,8 +453,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2512.04597
-  title: "When Robots Should Say \u201CI Don\u2019t Know\u201D: Benchmarking Abstention\
-    \ in Embodied Question Answering"
+  title: 'When Robots Should Say "I Don''t Know": Benchmarking Abstention in Embodied
+    Question Answering'
   authors:
   - Tao Wu
   - Chuhao Zhou
@@ -546,7 +546,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2511.15379
-  title: 'ZOMG: Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training'
+  title: Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training
   authors:
   - Yunjiao Zhou
   - Xinyan Chen
