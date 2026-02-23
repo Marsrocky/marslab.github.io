@@ -295,6 +295,65 @@
   - Foundation model
   plugin: sources.py
   file: sources.yaml
+- id: arxiv:2510.15189
+  title: 'RM-RL: Role-Model Reinforcement Learning for Precise Robot Manipulation'
+  authors:
+  - Xiangyu Chen
+  - Chuhao Zhou
+  - Yuxi Liu
+  - Jianfei Yang
+  publisher: ICRA 2026
+  date: '2026-01-22'
+  link: https://arxiv.org/abs/2510.15189
+  type: paper
+  description: Real-world RL framework that uses a role-model strategy to label online
+    samples for offline supervised replay, achieving millimeter-level precision in
+    robot manipulation.
+  image: images/papers/xiangyu-rmrl-icra26.png
+  group: highlighted
+  buttons:
+  - type: paper
+    link: https://arxiv.org/pdf/2510.15189
+  - type: github
+    text: Github
+    link: NTUMARS/RMRL
+  - type: website
+    text: Website
+    link: https://ntumars.github.io/project/RMRL/
+  tags:
+  - reinforcement learning
+  - robot manipulation
+  - precision
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2410.02429
+  title: 'IoT-LLM: a framework for enhancing Large Language Model reasoning from real-world
+    sensor data'
+  authors:
+  - Tuo An
+  - Yunjiao Zhou
+  - Han Zou
+  - Jianfei Yang
+  publisher: Patterns, Cell Press
+  date: '2025-10-10'
+  link: https://arxiv.org/abs/2410.02429
+  type: paper
+  description: A RAG-enhanced framework for enhancing LLM reasoning from real-world
+    IoT sensor data across diverse tasks.
+  image: images/papers/tuo-iotllm-cellpatterns25.png
+  group: highlighted
+  buttons:
+  - type: paper
+    link: https://www.cell.com/patterns/fulltext/S2666-3899(25)00277-6
+  - type: github
+    text: Github
+    link: NTUMARS/IoT-Agent
+  tags:
+  - IoT
+  - LLM
+  - sensor data reasoning
+  plugin: sources.py
+  file: sources.yaml
 - id: arXiv:2505.10872
   title: 'REI-Bench: Can Embodied Agents Understand Vague Human Instructions in Task
     Planning?'
@@ -302,20 +361,14 @@
   - Chenxi Jiang
   - Chuhao Zhou
   - Jianfei Yang
-  publisher: arXiv 2025
-  date: '2025-05-19'
+  publisher: ICLR 2026
+  date: '2026-01-22'
   link: https://arxiv.org/abs/2505.10872
   image: images/papers/chenxi-reibench-arxiv25.png
   group: highlighted
   buttons:
   - type: paper
     link: https://doi.org/10.48550/arXiv.2505.10872
-  - type: github
-    text: Github
-    link: https://arxiv.org/abs/2505.10872
-  - type: website
-    text: Website
-    link: https://arxiv.org/abs/2505.10872
   tags:
   - Robot task planning
   - Vagueness
@@ -345,5 +398,201 @@
   tags:
   - Multisensory foundation model
   - Human perception and reasoning
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2601.20377
+  title: 'RF-MatID: Dataset and Benchmark for Radio Frequency Material Identification'
+  authors:
+  - Xinyan Chen
+  - Qinchun Li
+  - Ruiqin Ma
+  - Jiaqi Bai
+  - Li Yi
+  - Jianfei Yang
+  publisher: ICLR 2026
+  date: '2026-01-22'
+  link: https://arxiv.org/abs/2601.20377
+  type: paper
+  description: First open-source large-scale wide-band RF dataset and benchmark for
+    fine-grained material identification.
+  image: images/papers/xinyan-rfmatid-iclr26.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/pdf/2601.20377
+  tags:
+  - RF sensing
+  - material identification
+  - dataset
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2512.01446
+  title: '$\mathbf{M^3A}$ Policy: Mutable Material Manipulation Augmentation Policy
+    through Photometric Re-rendering'
+  authors:
+  - Jiayi Li
+  - Yuxuan Hu
+  - Haoran Geng
+  - Xiangyu Chen
+  - Chuhao Zhou
+  - Ziteng Cui
+  - Jianfei Yang
+  publisher: CVPR 2026 (Findings)
+  date: '2026-02-23'
+  link: https://arxiv.org/abs/2512.01446
+  type: paper
+  description: A photometric re-rendering framework for material-generalized robotic
+    manipulation via computational photography.
+  image: images/papers/jiayi-m3a-cvpr26.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/pdf/2512.01446
+  tags:
+  - robot manipulation
+  - material generalization
+  - data augmentation
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2512.04597
+  title: 'When Robots Should Say "I Don''t Know": Benchmarking Abstention in Embodied
+    Question Answering'
+  authors:
+  - Tao Wu
+  - Chuhao Zhou
+  - Guangyu Zhao
+  - Haozhi Cao
+  - Yewen Pu
+  - Jianfei Yang
+  publisher: CVPR 2026
+  date: '2026-02-23'
+  link: https://arxiv.org/abs/2512.04597
+  type: paper
+  description: First benchmark for evaluating abstention ability of embodied agents
+    when facing ambiguous human queries.
+  image: images/papers/tao-abstaineqa-cvpr26.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/pdf/2512.04597
+  - type: website
+    text: Website
+    link: https://abstaineqa.github.io/
+  tags:
+  - embodied QA
+  - abstention
+  - human-robot interaction
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2512.12378
+  title: 'M4Human: A Large-Scale Multimodal mmWave Radar Benchmark for Human Mesh
+    Reconstruction'
+  authors:
+  - Junqiao Fan
+  - Yunjiao Zhou
+  - Yizhuo Yang
+  - Xinyuan Cui
+  - Jiarui Zhang
+  - Lihua Xie
+  - Jianfei Yang
+  - Chris Xiaoxuan Lu
+  - Fangqiang Ding
+  publisher: CVPR 2026
+  date: '2026-02-23'
+  link: https://arxiv.org/abs/2512.12378
+  type: paper
+  description: The largest multimodal mmWave radar benchmark (661K frames) for high-fidelity
+    human mesh reconstruction.
+  image: images/papers/junqiao-m4human-cvpr26.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/pdf/2512.12378
+  - type: github
+    text: Github
+    link: FanJunqiao/M4Human
+  - type: website
+    text: Website
+    link: https://fanjunqiao.github.io/M4Human-site/
+  tags:
+  - mmWave radar
+  - human mesh reconstruction
+  - dataset
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2510.03135
+  title: 'Mask2IV: Interaction-Centric Video Generation via Mask Trajectories'
+  authors:
+  - Gen Li
+  - Bo Zhao
+  - Jianfei Yang
+  - Laura Sevilla-Lara
+  publisher: AAAI 2026
+  date: '2025-11-01'
+  link: https://arxiv.org/abs/2510.03135
+  type: paper
+  description: A two-stage framework for interaction-centric video generation that
+    predicts mask trajectories for both actors and objects.
+  image: images/papers/gen-mask2iv-aaai26.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/pdf/2510.03135
+  - type: github
+    text: Github
+    link: Reagan1311/Mask2IV
+  - type: website
+    text: Website
+    link: https://reagan1311.github.io/mask2iv/
+  tags:
+  - video generation
+  - human-object interaction
+  - robotic manipulation
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2511.15379
+  title: Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training
+  authors:
+  - Yunjiao Zhou
+  - Xinyan Chen
+  - Junlang Qian
+  - Lihua Xie
+  - Jianfei Yang
+  publisher: AAAI 2026
+  date: '2025-11-01'
+  link: https://arxiv.org/abs/2511.15379
+  type: paper
+  description: A zero-shot framework for open-vocabulary human motion grounding via
+    LLM-guided decomposition and soft masking optimization.
+  image: images/papers/yunjiao-zomg-aaai26.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/pdf/2511.15379
+  - type: github
+    text: Github
+    link: pridy999/ZOMG
+  tags:
+  - motion grounding
+  - zero-shot learning
+  - test-time training
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2512.00345
+  title: 'mmPred: Radar-based Human Motion Prediction in the Dark'
+  authors:
+  - Junqiao Fan
+  - Haocong Rao
+  - Jiarui Zhang
+  - Jianfei Yang
+  - Lihua Xie
+  publisher: AAAI 2026
+  date: '2025-12-01'
+  link: https://arxiv.org/abs/2512.00345
+  type: paper
+  description: First diffusion-based framework for radar-based human motion prediction,
+    robust under adverse environments.
+  image: images/papers/junqiao-mmpred-aaai26.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/pdf/2512.00345
+  tags:
+  - mmWave radar
+  - human motion prediction
+  - diffusion model
   plugin: sources.py
   file: sources.yaml
