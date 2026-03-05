@@ -138,7 +138,6 @@
   publisher: ICLR 2025
   date: 2025-01-22
   image: images/papers/xinyan-xfi-iclr25.png
-  group: highlighted
   buttons:
     - type: paper
       link: https://doi.org/10.48550/arXiv.2410.10167
@@ -171,11 +170,11 @@
     - reinforcement learning
     - robot manipulation
     - precision
-- id: arxiv:2410.02429
+- id: doi:10.1016/j.patter.2025.101429
   type: paper
   publisher: Patterns, Cell Press
   description: A RAG-enhanced framework for enhancing LLM reasoning from real-world IoT sensor data across diverse tasks.
-  date: 2025-10-10
+  date: 2026-01-10
   image: images/papers/tuo-iotllm-cellpatterns25.png
   group: highlighted
   buttons:
@@ -200,11 +199,10 @@
     - Robot task planning
     - Vagueness
     - LLMs
-- id: arXiv:2505.17645 
+- id: arXiv:2505.17645
   publisher: NeurIPS 2025
   date: 2025-05-23
   image: images/papers/chuhao-holollm-arxiv25.png
-  group: highlighted
   buttons:
     - type: paper
       link: https://doi.org/10.48550/arXiv.2505.17645
@@ -236,6 +234,7 @@
   description: A photometric re-rendering framework for material-generalized robotic manipulation via computational photography.
   date: 2026-02-23
   image: images/papers/jiayi-m3a-cvpr26.png
+  group: highlighted
   buttons:
     - type: paper
       link: https://arxiv.org/pdf/2512.01446
@@ -249,6 +248,7 @@
   description: First benchmark for evaluating abstention ability of embodied agents when facing ambiguous human queries.
   date: 2026-02-23
   image: images/papers/tao-abstaineqa-cvpr26.png
+  group: highlighted
   buttons:
     - type: paper
       link: https://arxiv.org/pdf/2512.04597
