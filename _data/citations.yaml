@@ -280,6 +280,7 @@
   date: '2025-01-22'
   link: https://arxiv.org/abs/2410.10167
   image: images/papers/xinyan-xfi-iclr25.png
+  group: highlighted
   buttons:
   - type: paper
     link: https://doi.org/10.48550/arXiv.2410.10167
@@ -325,7 +326,7 @@
   - precision
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.patter.2025.101177
+- id: arxiv:2410.02429
   title: 'IoT-LLM: a framework for enhancing Large Language Model reasoning from real-world
     sensor data'
   authors:
@@ -334,8 +335,8 @@
   - Han Zou
   - Jianfei Yang
   publisher: Patterns, Cell Press
-  date: '2026-01-10'
-  link: https://www.cell.com/patterns/fulltext/S2666-3899(25)00277-6
+  date: '2025-10-10'
+  link: https://arxiv.org/abs/2410.02429
   type: paper
   description: A RAG-enhanced framework for enhancing LLM reasoning from real-world
     IoT sensor data across diverse tasks.
@@ -384,6 +385,7 @@
   date: '2025-05-23'
   link: https://arxiv.org/abs/2505.17645
   image: images/papers/chuhao-holollm-arxiv25.png
+  group: highlighted
   buttons:
   - type: paper
     link: https://doi.org/10.48550/arXiv.2505.17645
@@ -441,7 +443,6 @@
   description: A photometric re-rendering framework for material-generalized robotic
     manipulation via computational photography.
   image: images/papers/jiayi-m3a-cvpr26.png
-  group: highlighted
   buttons:
   - type: paper
     link: https://arxiv.org/pdf/2512.01446
@@ -468,7 +469,6 @@
   description: First benchmark for evaluating abstention ability of embodied agents
     when facing ambiguous human queries.
   image: images/papers/tao-abstaineqa-cvpr26.png
-  group: highlighted
   buttons:
   - type: paper
     link: https://arxiv.org/pdf/2512.04597
