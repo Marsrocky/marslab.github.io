@@ -8,7 +8,9 @@ MARS Lab studies **Physical AI**, focusing on how AI can enable physical systems
 {% include section.html %}
 
 ## News
-- Feb 2026: (paper) Three papers are accepted by **CVPR-26** (2 main + 1 finding). Congratulations!
+- Mar 2026: (grant) Excited to receive the **NVIDIA Academic Grant** on Robotics.
+- Feb 2026: (paper) Three papers are accepted by **CVPR-26** (2 main + 1 finding).
+- Feb 2026: (grant) Excited to receive the **Microsoft Seed Grant** from Microsoft Research Asia.
 - Jan 2026: (paper) Our paper on real-world RL is acceptd by **ICRA-26**. Congrats Xiangyu (PhD)!
 - Jan 2026: (paper) Two papers are accepted by **ICLR-26**. Congrats Xinyan (PhD) and Chenxi (MEng)!
 - Nov 2025: (paper) Three papers are accepted by **AAAI-26**.
@@ -17,7 +19,7 @@ MARS Lab studies **Physical AI**, focusing on how AI can enable physical systems
 - Jun 2025: (paper) Two papers are accepted by **IROS-25**!
 - May 2025: (member) Our first **humanoid** robot member, "MARS-H," joins the lab!
 - Feb 2025: (project) Our lab established a collaboration with Abio for robotic lab automation.
-- Feb 2025: (funding) Our project is supported by **Microsoft Accelerating Foundation Models Research**.
+- Feb 2025: (grant) Our project is supported by **Microsoft Accelerating Foundation Models Research**.
 - Feb 2025: (paper) Our paper (Feedback Neural Network) is selected as an **ICLR oral paper (top 1.8%)**.
 - Jan 2025: (paper) Two papers (on X-Fi and Feedback Neural Network) are accepted by **ICLR-25**.
 - Jan 2025: (paper) One paper on point registration is accepted by **ICRA-25**. Congrats to our undergrad intern, Geng Li!
