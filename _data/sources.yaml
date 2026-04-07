@@ -224,6 +224,15 @@
   buttons:
     - type: paper
       link: https://arxiv.org/pdf/2601.20377
+    - type: github
+      text: Github
+      link: NTUMARS/RF-MatID
+    - type: website
+      text: Website
+      link: https://ntumars.github.io/project/RFMatID/
+    - type: data
+      text: Dataset
+      link: https://huggingface.co/datasets/ntumars/RF-MatID/tree/main
   tags:
     - RF sensing
     - material identification
