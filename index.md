@@ -8,6 +8,7 @@ MARS Lab studies **Physical AI**, focusing on how AI can enable physical systems
 {% include section.html %}
 
 ## News
+- Apr 2026: (paper) Our paper [**A2A: Action-to-Action Flow Matching**](https://arxiv.org/pdf/2602.07322) is accepted by **RSS-26**. Congrats to Dr. Jindou Jia and Dr. Gen Li!
 - Mar 2026: (grant) Excited to receive the **NVIDIA Academic Grant** on Robotics.
 - Feb 2026: (paper) Three papers are accepted by **CVPR-26** (2 main + 1 finding).
 - Feb 2026: (grant) Excited to receive the **Microsoft Seed Grant** from Microsoft Research Asia.
