@@ -30,7 +30,6 @@ With shared dedication, we strive to advance science and create impactful innova
 <ul>
   <li><strong>Yuxuan Hu</strong> (Fudan University) - Visiting PhD Student (2025-2026)</li>
   <li><strong>Weiqing Lin</strong> (Fuzhou University) - Visiting PhD Student (2025-2026)</li>
-  <li><strong>Beiyu You</strong> (Hainan University) - Visiting PhD Student (2025-2026)</li>
 </ul>
 
 ### Undergrad Research Intern
