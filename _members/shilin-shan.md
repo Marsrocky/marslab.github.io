@@ -4,7 +4,7 @@ search:
 role: postdoc
 affiliation: Robotics
 group: current
-image: images/members/shilin shan.jpg
+image: images/members/shilin-shan.jpg
 email: shilin.shan@ntu.edu.sg
 ---
 
