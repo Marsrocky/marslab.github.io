@@ -1,7 +1,7 @@
 
 # Homepage of NTU MARS Lab
 
-Visit **[marslab.tech](http://marslab.tech)** 🚀
+Visit **[marsrocky.github.io/marslab.github.io](https://marsrocky.github.io/marslab.github.io)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
